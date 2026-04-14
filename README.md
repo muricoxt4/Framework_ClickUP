@@ -1,6 +1,6 @@
 # 🗂️ Framework de Gestão de Projetos — ClickUp
 
-> Sistema de gestão desenvolvido e operado em uma **agência de publicidade** com carteira diversificad, utilizando o **ClickUp** como plataforma central de organização, produção e acompanhamento de clientes e equipes.
+> Sistema de gestão desenvolvido e operado em uma **agência de publicidade** com carteira diversificada, utilizando o **ClickUp** como plataforma central de organização, produção e acompanhamento de clientes e equipes.
 
 ---
 
